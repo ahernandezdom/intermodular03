@@ -35,7 +35,7 @@ Cada equip haurà de fer un fork d'aquest repositori, afegir una fila a la taula
 | Equip | Repositori GitHub | GitHub Project |
 |---|---|---|
 | Equip 1 | Pendent | Pendent |
-| Equip 2 | Pendent | Pendent |
+| Equip 2 | https://github.com/GooniesInter/intermodular03equip2 | https://github.com/orgs/GooniesInter/projects/4 |
 | Equip 3 | Pendent | Pendent |
 | Equip 4 | Pendent | Pendent |
 | Equip 5 | Pendent | Pendent |
