@@ -34,7 +34,7 @@ Cada equip haurà de fer un fork d'aquest repositori, afegir una fila a la taula
 
 | Equip | Repositori GitHub | GitHub Project |
 |---|---|---|
-| Equip 1 | Pendent | Pendent |
+| Equip 1 | [intermodular03fila1](https://github.com/intermodular03/intermodular03fila1) | [Project Equip Fila 01](https://github.com/orgs/intermodular03/projects/1) |
 | Equip 2 | Pendent | Pendent |
 | Equip 3 | Pendent | Pendent |
 | Equip 4 | Pendent | Pendent |
