@@ -36,7 +36,7 @@ Cada equip haurà de fer un fork d'aquest repositori, afegir una fila a la taula
 |---|---|---|
 | Equip 1 | Pendent | Pendent |
 | Equip 2 | Pendent | Pendent |
-| Equip 3 | Pendent | Pendent |
+| Equip 3 | (https://github.com/CarlesTG/intermodular03equip3) | (https://github.com/users/CarlesTG/projects/1) |
 | Equip 4 | Pendent | Pendent |
 | Equip 5 | Pendent | Pendent |
 | Equip 6 | Pendent | Pendent |
